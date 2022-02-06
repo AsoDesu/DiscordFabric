@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "discord-fabric",
-  "version": "${version}",
+  "version": "2022.0.001-alpha",
   "name": "Discord Fabric",
   "description": "",
   "authors": [],
